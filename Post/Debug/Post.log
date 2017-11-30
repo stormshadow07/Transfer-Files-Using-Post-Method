@@ -1,0 +1,3 @@
+﻿  Post.cpp
+c:\users\mr robot\source\repos\post\post\post.cpp(71): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'long *'
+  Post.vcxproj -> c:\Users\MR ROBOT\source\repos\Post\Debug\Post.exe
